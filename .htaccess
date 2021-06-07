@@ -17,5 +17,5 @@
     # Send Requests To Front Controller...
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule . /erc/erc/index.php [L]
+    RewriteRule . /erc/index.php [L]
 </IfModule>
