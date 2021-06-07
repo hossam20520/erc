@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://ercelearning.com/erc/erc/'),
+    'url' => env('APP_URL', 'https://vol.ercelearning.com'),
 
     'asset_url' => env('ASSET_URL', null),
 
